@@ -54,6 +54,6 @@ Kext
 ![Kext][Kext]
 
 [USB]: https://macx.top/26316.html
-[ACPI]: /Readme_img/SCR-20230207-fgr.png
+[ACPI]: /Readme_img/SCR-20230207-fg2.png
 [Kext]: /Readme_img/SCR-20230207-fhg.png
 [HiDPi]: https://github.com/xzhih/one-key-hidpi
