@@ -6,6 +6,13 @@
  （配置原则能跑就行 大佬勿喷）
  
  （欢迎各位测试修改，欢迎 PR 和 Issue）
+
+ ## 原EFI
+
+ 我是拿以前别人做的旧版EFI修改而成，原EFI[见这里][EFI]。
+
+ 貌似原版是支持手势的，可能是被我搞没了吧，希望有大佬能帮我改下！
+
  
  ## 详细配置：
 
@@ -57,3 +64,4 @@ Kext
 [ACPI]: /Readme_img/SCR-20230207-fg2.png
 [Kext]: /Readme_img/SCR-20230207-fhg.png
 [HiDPi]: https://github.com/xzhih/one-key-hidpi
+[EFI]: https://macx.top/16960.html
