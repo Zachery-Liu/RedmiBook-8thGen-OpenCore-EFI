@@ -36,7 +36,7 @@
 |触摸板|⍻ 不完全支持|仅触摸，手势无效|
 |合盖睡眠|✅ 支持|需配合 [HiDPi][HiDPi] 修复花屏等|
 |电源管理|✅ 支持|原生支持
-|声音|✅ 支持|外放完美，貌似插耳机对于网易云等音乐软件有点问题|
+|声音|✅ 支持|本机测试完美|
 |独显|❌ 不支持|MX250 无解，屏蔽|
 |麦克风|🤷 未测试|一直没使用
 
@@ -49,6 +49,11 @@ macOS版本 : Ventura 13.2 (22D49)
 ## 其他说明
 
 USB记得自己定制，方法如[链接][USB]。
+
+如果有耳机（声卡）问题可以修改 boot-args 里的 alcid ，按照 [codec表][codec] 里的 layout 值一个一个试，直到找到合适的。
+
+这里是目前 ALC256 的 layout 值：
+5, 11, 13, 14, 16, 17, 19, 20, 21, 22, 23, 24, 28, 33, 56, 57, 66, 67, 68, 69, 70, 76, 77, 88, 97, 99
 
 需替换序列号等数据，默认为空。
 
@@ -67,3 +72,4 @@ Kext
 [Kext]: /Readme_img/SCR-20230207-fhg.png
 [HiDPi]: https://github.com/xzhih/one-key-hidpi
 [EFI]: https://macx.top/16960.html
+[codec]: https://github.com/acidanthera/AppleALC/wiki/Supported-codecs
