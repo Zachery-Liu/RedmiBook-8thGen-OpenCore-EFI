@@ -43,8 +43,8 @@
 |Power management|✅ Support|native support|
 |Sound|✅ Support|Native test perfect, Layout ID 17|
 |Touchpad|⍻ Not fully supported|Touch only, gestures not working|
+|HDMI output|✅ Supported| Test can connect to TV|
 |DISCRIPTION|❌ Not supported|MX250 No solution, shield|
-|HDMI output|❌ Not supported| Test cannot connect to TV|
 |Microphone|🤷 Not tested| Seems to be invalid|
 
 ## Version testing
