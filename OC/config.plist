@@ -1269,7 +1269,7 @@
 			<key>PollAppleHotKeys</key>
 			<true/>
 			<key>ShowPicker</key>
-			<true/>
+			<false/>
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
@@ -1633,7 +1633,7 @@
 				<key>LoadEarly</key>
 				<false/>
 				<key>Path</key>
-				<string>HfsPlus.efi</string>
+				<string>OpenRuntime.efi</string>
 			</dict>
 			<dict>
 				<key>Arguments</key>
@@ -1645,7 +1645,7 @@
 				<key>LoadEarly</key>
 				<false/>
 				<key>Path</key>
-				<string>OpenRuntime.efi</string>
+				<string>OpenHfsPlus.efi</string>
 			</dict>
 			<dict>
 				<key>Arguments</key>
