@@ -48,7 +48,7 @@
 
 ## 版本及测试情况
 
-OpenCore 版本 : 0.9.0
+OpenCore 版本 : 0.9.1
 
 macOS 版本 : Ventura 13.2 (22D49)
 

@@ -49,7 +49,7 @@
 
 ## Version testing
 
-OpenCore version : 0.9.0
+OpenCore version : 0.9.1
 
 macOS version : Ventura 13.2 (22D49)
 
