@@ -16,8 +16,6 @@
 
  I am taking the old EFI modified from the previous version made by others, the original EFI [see here] [EFI].
 
- It seems that the original version is supported by gestures, maybe I messed it up, I hope some big brother can help me change it!
-
  
  ## Detailed configuration.
 
