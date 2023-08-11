@@ -42,16 +42,16 @@
 |USB|✅ Support|Custom USB, problems may require re-customization|
 |Power management|✅ Support|native support|
 |Sound|✅ Support|Native test perfect, Layout ID 17|
-|Touchpad|⍻ Not fully supported|Touch only, gestures not working|
+|Touchpad|✅ Supported| All gestures working|
 |HDMI output|✅ Supported| Test can connect to TV|
 |DISCRIPTION|❌ Not supported|MX250 No solution, shield|
 |Microphone|🤷 Not tested| Seems to be invalid|
 
 ## Version testing
 
-OpenCore version : 0.9.1
+OpenCore version : 0.9.4
 
-macOS version : Ventura 13.2 (22D49)
+macOS version : Ventura 13.5 (22G74)
 
 ## Other notes
 
