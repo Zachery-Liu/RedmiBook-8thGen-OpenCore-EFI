@@ -1,5 +1,7 @@
 # RedmiBook-8thGen-OpenCore-EFI
 
+## 本人更换电脑 故停更
+
 ## 🌍 Language/语言
 [English][english] | [简体中文](/) 
 
